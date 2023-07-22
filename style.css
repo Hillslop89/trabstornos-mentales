@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(235, 223, 235);
+    color: rgb(131, 11, 129);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+
+}
+
+.titulo {
+    color: rgb(246, 20, 20);
+}
+
+h2 {
+    color: rgb(218, 60, 163);
+}
+
+.imagen1 {
+    width: 1000px;
+    height: 1000px;
+}
+
+img {
+    width: 700px;
+}
+
+h1 {
+    font-family: 'Fasthand', cursive;
+}
+/* 
+selector {
+    propiedad: valor;
+}
+*/
